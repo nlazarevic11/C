@@ -1,0 +1,159 @@
+Bills
+Buffalo
+10
+AFC East
+
+Dolphins
+Miami
+8
+AFC East
+
+Patriots
+New England
+6
+AFC East
+
+Jets
+New York
+0
+AFC East
+
+Titans
+Tennessee
+9
+AFC South
+
+Colts
+Indianapolis
+9
+AFC South
+
+Texans
+Houston
+4
+AFC South
+
+Jaguars
+Jahonville
+1
+AFC South
+
+Steelers
+Pittsbourgh
+11
+AFC North
+
+Browns
+Cleveland
+9
+AFC North
+
+Ravens
+Baltimore
+8
+AFC North
+
+Bengals
+Cincinnati
+2
+AFC North
+
+Chiefs
+Kansas City
+12
+AFC West
+
+Raiders
+Las Vegas
+7
+AFC West
+
+Broncos
+Denver
+5
+AFC West
+
+Chargers
+Los Angeles
+5
+AFC West
+
+Rams
+Los Angeles
+9
+NFC West
+
+Seahawks
+Seattle
+9
+NFC West
+
+Cardinals
+Arizona
+7
+NFC West
+
+49ers
+San Francisco
+5
+NFC West
+
+Saints
+New Orleans
+10
+NFC South
+
+Buckaneers
+Tampa Bay
+8
+NFC South
+
+Falcons
+Atlanta
+4
+NFC South
+
+Panthers
+Carolina
+4
+NFC South
+
+Football Team
+Washington
+6
+NFC East
+
+Giants
+New York
+5
+NFC East
+
+Eagles
+Philadelphia
+4
+NFC East
+
+Cowboys
+Dallas
+4
+NFC East
+
+Packers
+Green Bay
+10
+NFC North
+
+Vikings
+Minesota
+6
+NFC North
+
+Bears
+Chicago
+6
+NFC North
+
+Lions
+Detroit
+5
+NFC North
